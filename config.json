@@ -1,0 +1,8 @@
+{
+  "skoleintra": {
+    "brugernavn": "mit_brugernavn",
+    "adgangskode": "min_adgangskode",
+    "baseUrl": "https://min_skole.m.skoleintra.dk"
+  },
+  "token": "min_discord_token"
+}
